@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626092564 source:c:\users\pc\desktop\proyectos_codeblocks\recuparcial1prog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
